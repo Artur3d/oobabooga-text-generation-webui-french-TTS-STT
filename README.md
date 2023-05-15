@@ -10,4 +10,4 @@ pip install -r extensions/whisper_stt_fr/requirements.txt
 ```
 3. For Silero you need to donwload the french model 
 https://models.silero.ai/models/tts/fr/v3_fr.pt
-to \home\"user"\.cache\torch\hub\snakers4_silero-models_master\
+to \home\user\.cache\torch\hub\snakers4_silero-models_master\
