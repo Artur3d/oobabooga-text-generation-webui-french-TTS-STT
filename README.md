@@ -15,6 +15,6 @@ pip install -r extensions/whisper_stt_fr/requirements.txt
 ```
 3. For Silero you need to download the french model 
 https://models.silero.ai/models/tts/fr/v3_fr.pt
-and drop it into `\home\"user"\.cache\torch\hub\snakers4_silero-models_master\`
+and drop it into `\home\"user"\.cache\torch\hub\snakers4_silero-models_master\src\silero\model\`
 4. Add flags `--silero_tts_fr` and `--whisper_stt_fr` or `--whisper_stt_lite` when starting Oobabooga like other extensions.
 
