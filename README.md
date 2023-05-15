@@ -3,7 +3,7 @@ OobaBooga text-generation-webui with modified Silero TTS and whisper STT extensi
 
 ## Features
 - silero_tts_fr modified script for french voice output (you have to manually download the french model).
-- whisper_stt_fr modified script for french voice input (it will auto download medium model, because base model could be not enought).
+- whisper_stt_fr modified script for french voice input (it will auto download medium model, because base model could be not enough).
 - whisper_stt_lite modified script for french voice input if you don't have enough vram (it will auto download base model,  bad quality recognition but it's working).
 
 # How to Use
