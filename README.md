@@ -1,5 +1,5 @@
 # French voice input/ouput extensions for oobabooga text-generation-webui 
-OobaBooga text-generation-webui modified Silero TTS and whisper STT extensions for french voice input/ouput for french model like Vigogne (https://huggingface.co/cmh/vigogne-13b-4bit-128g)
+OobaBooga text-generation-webui modified Silero TTS and whisper STT extensions for french voice input/ouput for model like Vigogne (https://huggingface.co/cmh/vigogne-13b-4bit-128g)
 
 ## Features
 - silero_tts_fr modified script for french voice output (you have to manually download the french model).
